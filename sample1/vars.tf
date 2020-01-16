@@ -25,3 +25,8 @@ variable "sleepy_time12344555" {
   default     = 1234555
 }
 
+variable "branchissue1159" {
+  description = "sample1 varstf l-exec will take a nap."
+  default     = 1234555
+}
+
